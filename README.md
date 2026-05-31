@@ -1,4 +1,10 @@
 # Industrial Defect Detection System
+
+# Industrial Defect Detection System
+
+## Demo
+
+[Demo Video](demo_video.mp4)
 # Inspection Results
 
 ## Vertical Good Part
