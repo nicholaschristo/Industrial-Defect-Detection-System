@@ -1,4 +1,4 @@
-# Industrial Defect Detection System
+
 
 # Industrial Defect Detection System
 
