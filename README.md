@@ -2,7 +2,15 @@
 
 ![Master Capture](master_capture_1.png)
 # Industrial Defect Detection System
+# Inspection Results
 
+| Vertical Good Part | Horizontal Good Part |
+|-------------------|---------------------|
+| ![](images/vertical_good_part.png) | ![](images/Horizontal_Good_Part_with_Threshold_slider_changed.png) |
+
+| Vertical Defective Part |
+|------------------------|
+| ![](images/vertical_defective_part_1.png) |
 ## Overview
 
 This project implements a real-time industrial machine vision inspection system using OpenCV for automated defect detection and quality inspection.
