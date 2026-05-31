@@ -104,7 +104,9 @@ Tilted components can be identified and rejected.
 # Defect Detection Logic
 
 The system classifies parts using multiple inspection criteria.
+## Master Capture
 
+![Master Capture](master_capture_1.png)
 ### GOOD Part
 
 A part is classified as GOOD when:
