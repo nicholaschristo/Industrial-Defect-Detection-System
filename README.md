@@ -1,6 +1,3 @@
-## Master Capture
-
-![Master Capture](master_capture_1.png)
 # Industrial Defect Detection System
 # Inspection Results
 
